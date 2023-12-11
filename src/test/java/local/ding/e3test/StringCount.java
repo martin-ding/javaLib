@@ -25,7 +25,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 思路2,可以使用一个hashmap来表示数据,key是小写字母,value是STATE
+ * 思路,可以使用一个hashmap来表示数据,key是小写字母,value是STATE
  */
 public class StringCount {
 
